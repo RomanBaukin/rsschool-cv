@@ -2,8 +2,10 @@
 
 # Roman Baukin
 
-# *Frontend Developer (Junior)*
+*Frontend Developer (Junior)*
+
 ====
+
 ## My Contact Info:
 
 * Phone: +995 557-90-54-74
@@ -52,15 +54,21 @@ function sortByLength (array) {
 ## Education
 
 * **Glo Academy**
+
 Course «JavaScript»
+
 November 2020 - January 2021
 
 * **Glo Academy**
+
 Course "Web Start"
+
 August 2020 - October 2020
  
 * **Chelyabinsk State Medical Academy**
+
 2001 — 2004
+
 Medical Faculty
 
 ## Languages
