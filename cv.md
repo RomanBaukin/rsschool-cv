@@ -1,4 +1,4 @@
-![Photo: Roman Baukin](/my_photo.jpg)
+![Photo: Roman Baukin](/img/my_photo.jpg)
 
 # Roman Baukin
 
