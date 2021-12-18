@@ -5,7 +5,7 @@
 
 ***********
 
-## My Contact Info:
+### My Contact Info:
 
 * Phone: +995 557-90-54-74
 * E-mail: rbaukin1984@gmail.com
@@ -14,11 +14,15 @@
 * Telegram: [@roman_baukin](https://t.me/roman_baukin)
 * Discord: Roman (@RomanBaukin)
 
-## About Me
+***********
+
+### About Me
 
 I took two courses at GLO Academy: "Web Start" and "JavaScript" and successfully defended two diploma projects. I am currently taking a JS / Frontend development course at RS School.
 
-## Skills
+***********
+
+### Skills
 
 * HTML5
 * CSS3 (Bootstrap, SASS/SCSS, BEM)
@@ -27,7 +31,9 @@ I took two courses at GLO Academy: "Web Start" and "JavaScript" and successfully
 * Gulp, Webpack
 * Avocode, Figma, Marsy, Photoshop
 
-## Code Examples
+***********
+
+### Code Examples
 
 ```
 function sortByLength (array) {
@@ -41,7 +47,9 @@ function sortByLength (array) {
 }
 ```
 
-## My Projects
+***********
+
+### My Projects
 
 * [Website for a permanent makeup master](https://baukina.com)
 * [Fitness club "Body"](https://roman-baukin.ru/FitnessClubTelo/)
@@ -50,7 +58,9 @@ function sortByLength (array) {
 * [RunSmart Landing Page](https://roman-baukin.ru/pulse/)
 * [Taxi company landing page](https://roman-baukin.ru/uber/)
 
-## Education
+***********
+
+### Education
 
 * **Glo Academy**
 
@@ -70,7 +80,10 @@ function sortByLength (array) {
 
     Medical Faculty
 
-## Languages
+
+***********
+
+### Languages
 
 * Russian - native speaker
 * English - A1
