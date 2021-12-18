@@ -1,10 +1,9 @@
 ![Photo: Roman Baukin](/img/my_photo150x150.jpg)
 
 # Roman Baukin
-
 *Frontend Developer (Junior)*
 
-====
+***********
 
 ## My Contact Info:
 
@@ -55,21 +54,21 @@ function sortByLength (array) {
 
 * **Glo Academy**
 
-Course «JavaScript»
+    Course «JavaScript»
 
-November 2020 - January 2021
+    November 2020 - January 2021
 
 * **Glo Academy**
 
-Course "Web Start"
+    Course "Web Start"
 
-August 2020 - October 2020
+    August 2020 - October 2020
  
 * **Chelyabinsk State Medical Academy**
 
-2001 — 2004
+    2001 — 2004
 
-Medical Faculty
+    Medical Faculty
 
 ## Languages
 
