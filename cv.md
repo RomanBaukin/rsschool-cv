@@ -43,7 +43,7 @@ function sortByLength (array) {
     } else {
       return -1;
     }
-});
+  });
 }
 ```
 
