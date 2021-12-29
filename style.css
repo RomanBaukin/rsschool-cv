@@ -16,9 +16,20 @@ img {
   max-width: 100%;
 }
 
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
 .header__container {
   display: flex;
   justify-content: space-between;
+  margin-top: 40px;
 }
 
 .main__container {
@@ -36,6 +47,16 @@ img {
   padding: 0 20px;
 }
 
+.contacts ul li,
+.skills ul li,
+.languages ul li {
+  margin-bottom: 5px;
+}
+
+.contacts ul li a {
+  color: #e9e4dd;
+}
+
 .add-info {
   padding-left: 40px;
 }
@@ -50,11 +71,30 @@ img {
   padding: 0 20px;
 }
 
+.my-github {
+  width: 50px;
+}
+
 .logo {
   width: 100px;
 }
 
+.projects ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
+.projects ul li {
+  flex-basis: 45%;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.projects ul li img {
+  height: 150px;
+  object-fit: cover;
+}
 
 
 
