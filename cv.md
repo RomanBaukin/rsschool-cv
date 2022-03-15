@@ -18,7 +18,7 @@
 
 ### About Me
 
-I took two courses at GLO Academy: "Web Start" and "JavaScript" and successfully defended two diploma projects. I am currently taking a JS / Frontend development course at RS School.
+Completed two courses at GLO Academy: "Web Start" and "JavaScript" and successfully defended two graduation projects. I am currently taking a JS / Frontend development course at RS School.
 
 ***********
 
@@ -61,6 +61,12 @@ function sortByLength (array) {
 ***********
 
 ### Education
+
+* **RS School**
+
+    Course JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)
+
+    December 2021 - March 2022
 
 * **Glo Academy**
 
